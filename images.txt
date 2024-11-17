@@ -5,4 +5,3 @@ estrellaxd/auto_bangumi:latest
 hujinbo23/dst-admin-go:latest
 nyanmisaka/jellyfin:latest
 kagurazakanyaa/palworld:latest
-redis
