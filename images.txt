@@ -1,8 +1,8 @@
-redis:7.4.1
-nginx:1.27.2
-mysql:8.4.3
-nacos/nacos-server:v2.4.3
-nacos/nacos-server:v2.1.0
+moelin/1panel:latest
+linuxserver/qbittorrent:latest
+19970688/nastools-bt:latest
+estrellaxd/auto_bangumi:latest
+hujinbo23/dst-admin-go:latest
+nyanmisaka/jellyfin:latest
+kagurazakanyaa/palworld:latest
 redis
-
-
